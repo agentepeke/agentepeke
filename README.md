@@ -5,14 +5,14 @@
 # HOLA SOY FERNANDO!!! 👋😎🟢
 
 <div align="center">
-<p align="center">Soy Fernando Quiñonez, estudiante del último semestre de la carrera de Ingeniería en Sistemas de la Universidad Rafael Landivar. Tengo 23 años y una gran pasión por la programación y he adquirido experiencia trabajando con diversas tecnologías. He desarrollado proyectos utilizando Python, React, Laravel, HTML y CSS puro. Me entusiasma la oportunidad de seguir aprendiendo y creciendo en el campo del desarrollo de software.</p>
+<p align="center">Soy Fernando Quiñonez, estudiante del último semestre de la carrera de Ingeniería en Sistemas de la Universidad Rafael Landivar. Tengo 23 años y experiencia trabajando con diversas tecnologías, poseo experiencia trabajando proyectos utilizando Python, React, Laravel, HTML y CSS puro. Me entusiasma la oportunidad de seguir aprendiendo y creciendo en el campo del desarrollo de software.</p>
 </div>
 
 
 ## EXPERIENCIA LABORAL 🖥👨‍💻🤘
 
 <div align="center">
-<p align="center">Actualmente, trabajo en Dooply 🔭, una empresa de desarrollo en Quetzaltenango. En Dooply, estoy trabajando con Laravel como frontend, contribuyendo al desarrollo de aplicaciones web .</p>
+<p align="center">Actualmente, trabajo para una empresa de desarrollo de software en Quetzaltenango. Entre mis actividades se encuentran el desarrolo de paginas web por medio de Laravel como frontend.</p>
 </div>
 
 <div align="center">
