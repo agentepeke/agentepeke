@@ -5,7 +5,7 @@
 # HOLA SOY FERNANDO!!! 👋😎🟢
 
 <div align="center">
-<p align="center">Soy Fernando Quiñonez, estudiante del último semestre de la carrera de Ingeniería en Sistemas de la Universidad Rafael Landivar. Tengo 23 años y experiencia trabajando con diversas tecnologías, poseo experiencia trabajando proyectos utilizando Python, React, Laravel, HTML y CSS puro. Me entusiasma la oportunidad de seguir aprendiendo y creciendo en el campo del desarrollo de software.</p>
+<p align="center">Soy Fernando Quiñonez, estudiante del último semestre de la carrera de Ingeniería en Sistemas de la Universidad Rafael Landivar. Tengo 23 años y poseo experiencia trabajando proyectos utilizando Python, React, Laravel, HTML y CSS puro. Me entusiasma la oportunidad de seguir aprendiendo y creciendo en el campo del desarrollo de software.</p>
 </div>
 
 
