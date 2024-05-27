@@ -1,5 +1,5 @@
 <div align="center">
-<img  width="1000" height="400" src="https://github.com/agentepeke/agentepeke/assets/49626245/040e94de-7f94-4dc4-a65f-8b2aa2bb367e">
+    <img src="https://github.com/agentepeke/agentepeke/assets/49626245/040e94de-7f94-4dc4-a65f-8b2aa2bb367e" style="width: 100%; height: auto;">
 </div>
 
 # HOLA SOY FERNANDO!!! 👋😎🟢
@@ -18,6 +18,18 @@
 <div align="center">
 <img  width="500" height="400" src="https://github.com/agentepeke/agentepeke/assets/49626245/77f0b6ca-f1a8-407d-b45e-45aa23609926">
 </div>
+
+# 📊 GitHub Stats:
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=agentepeke&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=agentepeke&theme=vue-dark&hide_border=false"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentepeke&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=agentepeke&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## LENGUAJES, FRAMEWORKS, BASES DE DATOS Y HERRAMIENTAS CON LOS QUE HE TRABAJADO 🖥️🤩
 <p align="center">
